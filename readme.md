@@ -14,3 +14,4 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+https://blog.maximeheckel.com/posts/vaporwave-3d-scene-with-threejs/
